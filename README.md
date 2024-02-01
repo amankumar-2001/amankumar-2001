@@ -8,12 +8,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aman-kumar-99b4b21a0/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" alt="https://www.linkedin.com/in/aman-kumar-99b4b21a0/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aman_prajapati._/" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/-51609193448mids70tdmp.png" alt="https://www.instagram.com/aman_prajapati._/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/apcode15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/apcode15" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/apcode15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/apcode15" height="30" width="40" /></a>
-<a href="https://leetcode.com/apcode15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/apcode15/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aman-kumar-99b4b21a0/" target="blank">
+    <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" alt="https://www.linkedin.com/in/aman-kumar-99b4b21a0/" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/aman_prajapati._/" target="blank">
+    <img align="center" src="https://www.citypng.com/public/uploads/preview/-51609193448mids70tdmp.png" alt="https://www.instagram.com/aman_prajapati._/" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.codechef.com/users/apcode15" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/apcode15" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://codeforces.com/profile/apcode15" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/apcode15" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://leetcode.com/apcode15/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/apcode15/" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
