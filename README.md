@@ -1,65 +1,64 @@
-<h1 align="center">👋 Hi, I'm Aman Kumar</h1>
-
-- 👨‍💻 All of my projects are available at [Website](https://react-portfolio-ap.vercel.app/)
-
-- 📫 How to reach me **amankumar15m01@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://bit.ly/amankumar_SDE_2023)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/aman-kumar-99b4b21a0/" target="blank">
-    <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" alt="https://www.linkedin.com/in/aman-kumar-99b4b21a0/" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.instagram.com/aman_prajapati._/" target="blank">
-    <img align="center" src="https://www.citypng.com/public/uploads/preview/-51609193448mids70tdmp.png" alt="https://www.instagram.com/aman_prajapati._/" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.codechef.com/users/apcode15" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/apcode15" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://codeforces.com/profile/apcode15" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/apcode15" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://leetcode.com/apcode15/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/apcode15/" height="30" width="40" />
-  </a>
+<h1 align="center">Hi, I'm Aman Kumar 👋</h1>
+<p align="center">
+  <b>Backend Engineer @ <a href="https://www.linkedin.com/company/sharechat/">ShareChat</a></b> · Go · Node.js · TypeScript · Distributed Systems
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="no-referrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="no-referrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="no-referrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="no-referrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="no-referrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="no-referrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="no-referrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="no-referrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next.js" width="40" height="40"/>
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="no-referrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="no-referrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="no-referrer" style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-kumar-99b4b21a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:amankumar15m01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://react-portfolio-ap.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://bit.ly/amankumar_SDE_2023"><img src="https://img.shields.io/badge/Resume-4B5563?style=flat&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 </p>
 
+---
+
+### About me
+
+I build backend systems that stay correct under load — microservices, event-driven pipelines, payment flows and large data migrations, with a focus on **idempotency, data consistency and reliability**.
+
+- 🏢 **ShareChat** (Apr 2025 – now) — backend for AI Studio, payments, auth and high-throughput event pipelines
+- 💼 **Uolo** (Apr 2024 – Apr 2025) — fees reporting APIs, SQS-based notification engine, full-stack with React/Next.js
+- 🎓 B.Tech IT, **IET Lucknow** (2020 – 2024)
+- 🏆 CodeChef **5★** (peak 2047) · 2,000+ problems solved
+
+### Highlights from work
+
+| | |
+|---|---|
+| 🤖 **AI Studio platform** | Multi-model generation backend — **19 models**, 1.5–2K generations/week at **93% success**; conversational prompt assistant with **71% creator acceptance**; usage scaled **2.4×** without re-architecture |
+| ⚡ **Reliability** | Fallbacks, retries and circuit breakers that cut target-system **P99 latency by 60%** |
+| 💳 **Payments migration** | Led the move of payment integration layers from legacy v1 to v2 microservices with multi-tenant validation and transactional correctness |
+| 🗃️ **Data migration** | Idempotent batch sync for millions of active profiles — recognised with the *Power Player* award |
+| 🚀 **Query tuning** | MongoDB aggregation latency **58s → 3s (−95%)** at Uolo |
+
+### What I'm building now — KharchiBook
+
+A personal-finance platform split into independent services, built the way I'd build it at work.
+
+| Repo | What it is | Stack |
+|---|---|---|
+| [**auth-service**](https://github.com/amankumar-2001/auth-service) | Auth microservice: signup/login, OTP/MFA, RS256 JWT with rotating refresh tokens, RBAC, audit log, rate limiting, AES-GCM PII encryption | Go · Gin · GORM · Postgres · Redis |
+| [**expense-service**](https://github.com/amankumar-2001/expense-service) | Expenses, recurring commitments (EMIs, subscriptions, SIPs) and "free money" analytics; verifies tokens from auth-service | Go · Gin · Postgres · Redis |
+| [**kharchibook-web**](https://github.com/amankumar-2001/kharchibook-web) · [live](https://kharchibook-web.vercel.app) | Dashboard: phone-OTP login, commitments, spend charts, upcoming deductions | Next.js 16 · TypeScript · Tailwind |
+
+### Tech I work with
+
+**Languages:** Go · TypeScript · JavaScript · SQL · C++ · Python<br>
+**Backend:** Node.js · Gin · Temporal · REST · Microservices · Event-driven / async processing<br>
+**Data & infra:** PostgreSQL · MySQL · MongoDB · Redis · BigQuery · AWS (SQS, Lambda, EC2) · GCP · Kubernetes · Docker
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,nodejs,postgres,mysql,mongodb,redis,gcp,aws,kubernetes,docker,nextjs,react,cpp&perline=14" alt="tech stack"/>
+</p>
+
+### Competitive programming
+
+<a href="https://www.codechef.com/users/apcode15"><img src="https://img.shields.io/badge/CodeChef-5★%20(2047)-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://codeforces.com/profile/apcode15"><img src="https://img.shields.io/badge/Codeforces-apcode15-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://leetcode.com/apcode15/"><img src="https://img.shields.io/badge/LeetCode-apcode15-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+
+Ranked **88th of 90,000+** in IICC · **14th** in Scaler CodeDrift October 1.0
+
+---
+
+<p align="center"><i>Open to conversations about backend, distributed systems and reliability — reach out on <a href="https://www.linkedin.com/in/aman-kumar-99b4b21a0/">LinkedIn</a> or <a href="mailto:amankumar15m01@gmail.com">email</a>.</i></p>
