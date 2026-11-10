@@ -35,7 +35,7 @@ I build backend systems that stay correct under load — microservices, event-dr
 
 #### 🌸 [Bloom Health](https://github.com/BloomHealthApp) — current focus
 
-An offline-first wellness and habit-tracking app for two: an owner logs habits, workouts and cycles, and an invited viewer follows along read-only. Includes **Bloomy**, an AI chat assistant answered by a background worker.
+An offline-first wellness and habit-tracking app that anyone can sign up for. Track habits, water, steps, workouts and cycles, keep streaks that forgive rest days, and optionally invite a friend or partner to follow your progress read-only. Includes **Bloomy**, an AI chat assistant answered by a background worker.
 
 | Repo | What it is | Stack |
 |---|---|---|
