@@ -31,7 +31,19 @@ I build backend systems that stay correct under load — microservices, event-dr
 | 🗃️ **Data migration** | Idempotent batch sync for millions of active profiles — recognised with the *Power Player* award |
 | 🚀 **Query tuning** | MongoDB aggregation latency **58s → 3s (−95%)** at Uolo |
 
-### What I'm building now — KharchiBook
+### What I'm building now
+
+#### 🌸 [Bloom Health](https://github.com/BloomHealthApp) — current focus
+
+An offline-first wellness and habit-tracking app for two: an owner logs habits, workouts and cycles, and an invited viewer follows along read-only. Includes **Bloomy**, an AI chat assistant answered by a background worker.
+
+| Repo | What it is | Stack |
+|---|---|---|
+| **bloom-health-app** | Mobile app with offline cache and a sync queue, OTP sign-in, streaks and progress, notifications | Expo · React Native · TypeScript · TanStack Query · SQLite |
+| [**bloom-health-service**](https://github.com/BloomHealthApp/bloom-health-service) | REST + sync API: passwordless OTP auth with refresh-token rotation, idempotent sync push/pull with versions, conflicts and tombstones, owner/viewer access control, rate limiting | Go · Gin · MongoDB Atlas · Wire |
+| **bloom-health-task-worker** | Background worker that claims queued Bloomy chat turns from MongoDB with leases and retries, calls the LLM, and runs daily account-purge jobs; deployed on GCP | Go · MongoDB · Groq · GCP |
+
+#### 💰 KharchiBook
 
 A personal-finance platform split into independent services, built the way I'd build it at work.
 
