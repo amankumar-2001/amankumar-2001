@@ -7,16 +7,16 @@
   <a href="https://www.linkedin.com/in/aman-kumar-99b4b21a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:amankumar15m01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://react-portfolio-ap.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://bit.ly/amankumar_SDE_2023"><img src="https://img.shields.io/badge/Resume-4B5563?style=flat&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1FnvTT6T64xIeDbnBlXC3XHSZdvm7wKkx/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4B5563?style=flat&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
 
 ### About me
 
-I build backend systems that stay correct under load — microservices, event-driven pipelines, payment flows and large data migrations, with a focus on **idempotency, data consistency and reliability**.
+I build backend systems that stay correct under load — microservices, event-driven pipelines and large data migrations, with a focus on **idempotency, data consistency and reliability**.
 
-- 🏢 **ShareChat** (Apr 2025 – now) — backend for AI Studio, payments, auth and high-throughput event pipelines
+- 🏢 **ShareChat** (Apr 2025 – now) — backend for AI Studio, auth and high-throughput event pipelines
 - 💼 **Uolo** (Apr 2024 – Apr 2025) — fees reporting APIs, SQS-based notification engine, full-stack with React/Next.js
 - 🎓 B.Tech IT, **IET Lucknow** (2020 – 2024)
 - 🏆 CodeChef **5★** (peak 2047) · 2,000+ problems solved
